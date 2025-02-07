@@ -41,7 +41,7 @@ I'm a **Full Stack** developer with experience in **Java, JavaScript, React**, *
 ---
 
 ### 🧑‍💻 About Me:
-- 👨‍💻 Full Stack Developer with 4 years of experience.
+- 👨‍💻 Full Stack Developer.
 - 📚 Passionate about learning new technologies and developing innovative solutions.
 - 🌍 Interested in open-source projects and collaboration.
 - 💬 Always open to discuss new ideas and learn more with the community.
