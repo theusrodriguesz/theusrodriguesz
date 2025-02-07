@@ -1,9 +1,15 @@
-
 ### Hello, I'm Matheus Florêncio 📘
 
 I'm a **Full Stack** developer with experience in **Java, JavaScript, React**, **Python**, and **SQL**. I'm passionate about creating innovative and efficient solutions, working on both the backend and frontend to build complete applications.
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=theusrodriguesz&show_icons=true&theme=dracula)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=theusrodriguesz&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox&include_all_commits=true)
+
+#### Stats & Contributions
+
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=theusrodriguesz&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox&include_all_commits=true" width="400" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theusrodriguesz&theme=gruvbox&hide_border=true" width="400" />
+</div>
 
 ---
 
@@ -52,4 +58,3 @@ I'm a **Full Stack** developer with experience in **Java, JavaScript, React**, *
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/matheus-florencio/)
 - [Portfolio](https://www.yourportfolio.com)
-
