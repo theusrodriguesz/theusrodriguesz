@@ -49,5 +49,5 @@ I'm a **Full Stack** developer with experience in **Java, JavaScript, React**, *
 ---
 
 ### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/matheus-florencio/)
+- [LinkedIn](https://www.linkedin.com/in/matheus-florencioo/)
 - [Portfolio](https://www.yourportfolio.com)
