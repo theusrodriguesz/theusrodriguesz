@@ -1,56 +1,59 @@
-👋 Hi, I'm Matheus Florencio 🚀
+## 👋 Hi, I'm Matheus Florencio 🚀
 
-I'm a 21-year-old Full Stack Developer with international academic experience and a strong passion for data-driven solutions and scalable applications. I enjoy working across the entire stack — from crafting intuitive user interfaces to building robust backend systems and managing databases.
+I'm a **21-year-old Full Stack Developer** with international academic experience and a strong interest in **data-oriented development**.  
+I studied **Multiplatform Application Development in Spain for 2 years**, working on software projects across multiple universities.
 
-I studied Multiplatform Application Development in Spain for 2 years, where I gained solid technical foundations and worked on real-world development projects across multiple universities. Living and studying abroad strengthened not only my technical skills, but also my adaptability, communication, and problem-solving mindset.
+I enjoy building complete solutions — from backend architecture and databases to modern web and mobile applications.
 
-🚀 Tech Stack
-Frontend
-<div> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> </div>
-Backend
-<div> <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> </div>
-Databases
-<div> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> </div>
-Tools & Platforms
-<div> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/> </div>
-🧠 About Me
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=theusrodriguesz&show_icons=true&theme=dracula)
 
-💻 Full Stack Developer with experience in academic and real-world projects
+---
 
-📊 Strong interest in data handling, databases, and data-oriented development
+## 🚀 Tech Stack
 
-🎓 Studied Multiplatform Application Development in Spain (2 years)
+### 🌐 Frontend & Mobile
+<div>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</div>
 
-🏫 Participated in software development projects across multiple universities
+### 🧠 Backend
+<div>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+</div>
 
-🌍 International mindset with strong communication skills
+### 🗄️ Databases
+<div>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</div>
 
-🔍 Curious, proactive, and always learning new technologies
+### 🛠️ Tools
+<div>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+</div>
 
-🤝 Open to collaboration, open-source contributions, and new challenges
+---
 
-🌐 Languages
+## 🌍 Languages
 
-🇪🇸 Spanish — C2 (Fluent / Native-like)
+- 🇪🇸 Spanish — C2  
+- 🇬🇧 English — B2  
+- 🇮🇹 Italian — B2
 
-🇬🇧 English — B2 (Upper Intermediate)
+---
 
-🇮🇹 Italian — B2 (Upper Intermediate)
+## 📫 Contact
 
-📫 Get in Touch
-
-💼 LinkedIn
-
-🌐 Portfolio
-
-If you want, I can also:
-
-Optimize this for recruiters
-
-Make a shorter version
-
-Add project highlights
-
-Adapt it for backend-focused or data-focused roles
-
-Just tell me 👍
+- 💼 LinkedIn: https://www.linkedin.com/in/matheus-florencioo/
+- 🌐 Portfolio: https://www.yourportfolio.com
