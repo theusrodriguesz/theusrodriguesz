@@ -5,8 +5,6 @@ I studied **Multiplatform Application Development in Spain for 2 years**, workin
 
 I enjoy building complete solutions — from backend architecture and databases to modern web and mobile applications.
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=theusrodriguesz&show_icons=true&theme=dracula&cache_seconds=86400)
-
 
 
 ---
