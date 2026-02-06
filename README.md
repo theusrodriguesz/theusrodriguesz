@@ -47,9 +47,10 @@ I enjoy building complete solutions — from backend architecture and databases 
 
 ## 🌍 Languages
 
-- 🇪🇸 Spanish — C2  
-- 🇬🇧 English — B2  
-- 🇮🇹 Italian — B2
+🇪🇸 Espanhol — C2
+🇬🇧 Inglês — B2
+🇮🇹 Italiano — B2
+🇧🇷 Português — C2
 
 ---
 
