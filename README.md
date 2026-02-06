@@ -48,8 +48,11 @@ I enjoy building complete solutions — from backend architecture and databases 
 ## 🌍 Languages
 
 🇪🇸 Espanhol — C2
+
 🇬🇧 Inglês — B2
+
 🇮🇹 Italiano — B2
+
 🇧🇷 Português — C2
 
 ---
